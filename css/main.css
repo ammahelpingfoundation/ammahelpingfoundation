@@ -14,7 +14,7 @@ body {
     position: relative;
     height: 60vh;
     min-height: 400px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/bgImage.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://res.cloudinary.com/ammahelpingfoundation/image/upload/s--ackrYzsZ--/q_jpegmini/v1548753849/bgImage.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
